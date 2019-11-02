@@ -22,7 +22,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-const RADIO_NAME = "NoPlayer FM";
+const RADIO_NAME = "ÁDIO COMUNIDADE VIVA FM 106,3 | DOM PEDRO-MA";
 
 // URL of SHOUTCast streaming without / on the final, eg: http://streaming.com:8080
 const URL_STREAMING = "http://stm13.conectastm.com:7556";
